@@ -1,0 +1,1 @@
+  mFocusedActivity: ActivityRecord{166f02ef u0 com.tencent.mm/.plugin.search.ui.FTSMainUI t1018}
